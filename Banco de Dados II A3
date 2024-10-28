@@ -1,0 +1,3 @@
+SELECT COUNT(*) AS total_clientes
+FROM cadastro_clientes
+WHERE data_cadastro = '2024-10-28';
